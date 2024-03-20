@@ -7,7 +7,7 @@ Virtual-Influencer
 I love to make stuff I want to use by myself so I start learning code 6 years ago
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🧠  I'm learning new things
+* 🧠  I'm always trying to learn new things
 
 <a href="https://www.twitter.com/Xiques_L" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Xiques_L?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
