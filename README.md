@@ -1,4 +1,4 @@
-Hi 👋 My name is Xiques
+Hi 👋 the name's Xiques
 =======================
 
 Virtual-Influencer
