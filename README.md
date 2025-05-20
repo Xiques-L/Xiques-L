@@ -6,7 +6,7 @@ Virtual-Influencer
 
 I love to make stuff I want to use by myself.
 
-* 🌍  I'm based in Samutprakarn, Thailand
+* 🌍  I'm based in Bangkok, Thailand
 * 🧠  I'm always trying to learn new things
 
 ### Skills
